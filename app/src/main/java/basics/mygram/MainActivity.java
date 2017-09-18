@@ -23,6 +23,7 @@ public class MainActivity extends AppCompatActivity {
     Boolean show_login_page = true;
     Button button;
     TextView change_mode_text;
+    Integer test;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
