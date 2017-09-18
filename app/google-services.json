@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "537849975848",
+    "firebase_url": "https://mygram-b8752.firebaseio.com",
+    "project_id": "mygram-b8752",
+    "storage_bucket": "mygram-b8752.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537849975848:android:66fd5550546c939c",
+        "android_client_info": {
+          "package_name": "basics.mygram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537849975848-7ltkepch8b3f9tjftoedlr4nqfm52jh6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "basics.mygram",
+            "certificate_hash": "bb94cab6ed2ac994a5a73297b17c5916051024f5"
+          }
+        },
+        {
+          "client_id": "537849975848-p1tb1mpqc5ph7ui6j8u6i3t8j5siplg6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA6ovL4RF2_x3aSV6dG2yYKUAwQWCdHEk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "537849975848-p1tb1mpqc5ph7ui6j8u6i3t8j5siplg6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
